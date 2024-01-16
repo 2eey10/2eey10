@@ -1,7 +1,8 @@
 <div style="text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=2c3e50&height=200&section=header&text=&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2c3e50&height=200&section=header&text=&fontSize=30" />
+</div>
   
-  ### 컴퓨팅적 사고를 지향합니다. 데이터엔지니어를 꿈꾸는 이용렬입니다! 
+  ## There is no paradise in the place you have escaped to. 
 
   <div style="text-align: center;">
       <a href="https://git.io/typing-svg">
