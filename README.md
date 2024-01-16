@@ -1,9 +1,7 @@
 <div style="text-align: center;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2c3e50&height=200&section=header&text=&fontSize=30" />
+  <h2>There is no paradise in the place you have escaped to.</h2>
 </div>
-  
-  ## There is no paradise in the place you have escaped to. 
-
   <div style="text-align: center;">
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D11F7&random=false&width=435&lines=Technical+Skills" />
