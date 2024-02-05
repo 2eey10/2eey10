@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/beautifulsoup-59666C?style=for-the-badge&logo=beautifulsoup&logoColor=white">
   <br>
   
+  <h3>Web Framework</h3>
+  <img src="https://img.shields.io/badge/fastapi-013243?style=for-the-badge&logo=fastapi-013243&logoColor=white">
+  
   <h3>Deep Learning Framework</h3>
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -42,6 +45,7 @@
   
   <h3>Database</h3>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mongoDB-4479A1?style=for-the-badge&logo=mongoDB&logoColor=white">
   
   <h3>Communication</h3>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
