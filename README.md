@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black">
   <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/beautifulsoup-59666C?style=for-the-badge&logo=beautifulsoup&logoColor=white">
   <br>
   
   <h3>Web Framework</h3>
